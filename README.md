@@ -7,4 +7,4 @@ Image Process，Computer Vision  and Machine Learning Toolkit
 * Show Camera in MFC
 * Logger
 
-##Development environment:## Visual Studio 2010 + OpenCV 2.4.4
+**Development environment:** Visual Studio 2010 + OpenCV 2.4.4
