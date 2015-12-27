@@ -4,6 +4,8 @@ Image Process，Computer Vision  and Machine Learning Toolkit
 * Demo
 * Face Detection
 * Feature Process
+	* LBP
+	* PCA
 * Show Camera in MFC
 * Logger
 
