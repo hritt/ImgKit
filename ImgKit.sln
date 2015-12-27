@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShowCamera", "ShowCamera\Sh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FeatureProcess", "FeatureProcess\FeatureProcess.vcxproj", "{C74676D3-3CD2-422B-BA55-1CE67A98155F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logger", "Logger\Logger.vcxproj", "{0676DD36-0556-454E-8735-5BE4806B5A48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{C74676D3-3CD2-422B-BA55-1CE67A98155F}.Debug|Win32.Build.0 = Debug|Win32
 		{C74676D3-3CD2-422B-BA55-1CE67A98155F}.Release|Win32.ActiveCfg = Release|Win32
 		{C74676D3-3CD2-422B-BA55-1CE67A98155F}.Release|Win32.Build.0 = Release|Win32
+		{0676DD36-0556-454E-8735-5BE4806B5A48}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0676DD36-0556-454E-8735-5BE4806B5A48}.Debug|Win32.Build.0 = Debug|Win32
+		{0676DD36-0556-454E-8735-5BE4806B5A48}.Release|Win32.ActiveCfg = Release|Win32
+		{0676DD36-0556-454E-8735-5BE4806B5A48}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
